@@ -1,0 +1,138 @@
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\CropDealProject.exe
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\CropDealProject.deps.json
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\CropDealProject.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\CropDealProject.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\CropDealProject.pdb
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\MailKit.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\MimeKit.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\CropDealProject.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\CropDealProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\CropDealProject.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\CropDealProject.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\CropDealProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\CropDealProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\CropDealProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\staticwebassets\msbuild.CropDealProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\staticwebassets\msbuild.build.CropDealProject.props
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CropDealProject.props
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CropDealProject.props
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\scopedcss\bundle\CropDealProject.styles.css
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\CropDealProject.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\CropDealProject.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\refint\CropDealProject.dll
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\CropDealProject.pdb
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\CropDealProject.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Vedant\API\Backend-Ayush-Cd\CropDealProject\obj\Debug\net6.0\ref\CropDealProject.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\CropDealProject.exe
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\CropDealProject.deps.json
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\CropDealProject.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\CropDealProject.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\CropDealProject.pdb
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Humanizer.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\MailKit.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\MimeKit.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\CropDealProject.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\CropDealProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\CropDealProject.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\CropDealProject.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\CropDealProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\CropDealProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\CropDealProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\staticwebassets\msbuild.CropDealProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\staticwebassets\msbuild.build.CropDealProject.props
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CropDealProject.props
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CropDealProject.props
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\scopedcss\bundle\CropDealProject.styles.css
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\CropDealProject.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\CropDealProject.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\refint\CropDealProject.dll
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\CropDealProject.pdb
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\CropDealProject.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Case Study Aayush\CropDeal Web Api\API\Aayush Backend\CropDealProject\obj\Debug\net6.0\ref\CropDealProject.dll
